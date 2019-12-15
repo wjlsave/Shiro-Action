@@ -1,4 +1,4 @@
-# Shiro-Action
+﻿# Shiro-Action
 
 [![Build Status](https://travis-ci.org/zhaojun1998/Shiro-Action.svg?branch=master)](https://travis-ci.org/zhaojun1998/Shiro-Action)
 ![https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square](https://img.shields.io/badge/license-MIT-blue.svg?longCache=true&style=flat-square)
@@ -43,6 +43,9 @@ git clone https://github.com/zhaojun1998/Shiro-Action.git
 
 ### 导入项目
 
+使用自己的 IDE 导入, Eclipse 和 Intellij IDEA 均可.
+使用自己的 IDE 导入, Eclipse 和 Intellij IDEA 均可.
+使用自己的 IDE 导入, Eclipse 和 Intellij IDEA 均可.
 使用自己的 IDE 导入, Eclipse 和 Intellij IDEA 均可.
 
 ### 导入数据库
