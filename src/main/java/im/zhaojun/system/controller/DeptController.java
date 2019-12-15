@@ -1,4 +1,4 @@
-package im.zhaojun.system.controller;
+﻿package im.zhaojun.system.controller;
 
 import im.zhaojun.common.annotation.OperationLog;
 import im.zhaojun.common.util.ResultBean;
@@ -82,6 +82,7 @@ public class DeptController {
     @PostMapping("/swap")
     @ResponseBody
     public ResultBean swapSort(Integer currentId, Integer swapId) {
+	System.out.println("=========testgit============");
         deptService.swapSort(currentId, swapId);
         return ResultBean.success();
     }
